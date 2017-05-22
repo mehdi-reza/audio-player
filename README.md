@@ -8,5 +8,5 @@
 ``include "C:/Users/Mehdi Raza/aamir/waveform/nginx_audio.conf";``
 
 
-execute `mvn spring-boot:run` and browser <http://localhost:9991> 
+execute `mvn spring-boot:run` and point browser to <http://localhost:9991> 
 
