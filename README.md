@@ -10,3 +10,4 @@
 *  Start nginx using ``"start nginx"``
 *  execute `mvn spring-boot:run` and point browser to <http://localhost:9991> 
 
+Link to [ffmpeg](http://ffmpeg.zeranoe.com/builds/win64/static/ffmpeg-20170520-64ea4d1-win64-static.zip)
