@@ -5,7 +5,7 @@
 3. Download nginx (webserver) for windows. This is required to properly handle stream headers.
 4. In nginx.conf include nginx_audio.conf in ``http{...}`` block, as following...
 
-``include "C:/Users/Mehdi Raza/aamir/waveform/nginx_audio.conf";``
+>``include "C:/Users/Mehdi Raza/aamir/waveform/nginx_audio.conf";``
 
 
 execute `mvn spring-boot:run` and point browser to <http://localhost:9991> 
